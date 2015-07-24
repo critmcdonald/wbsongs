@@ -13,6 +13,7 @@ mentally awake, and morally straight.<br>
 A scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean and reverent.
 
 ## Scout Motto
+
 Be Prepared
 
 ## Scout Slogan
@@ -21,7 +22,8 @@ Do a Good Turn Daily
 
 ## Outdoor Code
 
-As an American, I will do my best to -
+As an American, I will do my best to:<br>
+
 * Be clean in my outdoor manners
 * Be careful with fire
 * Be considerate in the outdoors, and

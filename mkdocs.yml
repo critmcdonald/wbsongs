@@ -3,4 +3,6 @@ pages:
 - Home: index.md
 - Scout creeds: creeds.md
 - Patriotic songs: patriotic.md
+- Wood Badge songs: woodbadge.md
+- Commands: commands.md
 theme: readthedocs

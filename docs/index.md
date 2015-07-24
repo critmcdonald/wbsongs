@@ -1,19 +1,7 @@
-# Welcome to MkLorum
+# Welcome to Wood Badge Songs
 
-crit
+This is a phone friendly version of the Wood Badge Songbook for the Capital Area Council in Texas.
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+It was build for Fall 2015. Course Director Deanna Hagle.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Use the navigation at left, or search for a song title or lyric.
