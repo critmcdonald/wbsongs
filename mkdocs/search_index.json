@@ -1,0 +1,89 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkLorum\n\n\ncrit\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mklorum", 
+            "text": "crit  For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkLorum"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/creeds/", 
+            "text": "Scout creeds\n\n\nBoy Scout Oath (or Promise)\n\n\nOn my honor I will do my best\n\nTo do my duty to God and my country \n\nand to obey the Scout Law; \n\nTo help other people at all times; \n\nTo keep myself physically strong, \n\nmentally awake, and morally straight.\n\n\nScout Law\n\n\nA scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean and reverent.\n\n\nScout Motto\n\n\nBe Prepared\n\n\nScout Slogan\n\n\nDo a Good Turn Daily\n\n\nOutdoor Code\n\n\nAs an American, I will do my best to -\n\n Be clean in my outdoor manners\n\n Be careful with fire\n\n Be considerate in the outdoors, and\n\n Be conservation minded.\n\n\nCub Scout Motto\n\n\nDo Your Best", 
+            "title": "Scout creeds"
+        }, 
+        {
+            "location": "/creeds/#scout-creeds", 
+            "text": "", 
+            "title": "Scout creeds"
+        }, 
+        {
+            "location": "/creeds/#boy-scout-oath-or-promise", 
+            "text": "On my honor I will do my best \nTo do my duty to God and my country  \nand to obey the Scout Law;  \nTo help other people at all times;  \nTo keep myself physically strong,  \nmentally awake, and morally straight.", 
+            "title": "Boy Scout Oath (or Promise)"
+        }, 
+        {
+            "location": "/creeds/#scout-law", 
+            "text": "A scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean and reverent.", 
+            "title": "Scout Law"
+        }, 
+        {
+            "location": "/creeds/#scout-motto", 
+            "text": "Be Prepared", 
+            "title": "Scout Motto"
+        }, 
+        {
+            "location": "/creeds/#scout-slogan", 
+            "text": "Do a Good Turn Daily", 
+            "title": "Scout Slogan"
+        }, 
+        {
+            "location": "/creeds/#outdoor-code", 
+            "text": "As an American, I will do my best to -  Be clean in my outdoor manners  Be careful with fire  Be considerate in the outdoors, and  Be conservation minded.", 
+            "title": "Outdoor Code"
+        }, 
+        {
+            "location": "/creeds/#cub-scout-motto", 
+            "text": "Do Your Best", 
+            "title": "Cub Scout Motto"
+        }, 
+        {
+            "location": "/patriotic/", 
+            "text": "Patriotic Songs\n\n\nAmerica (My Country \u2018Tis of Thee)\n\n\nMy country! \u2018Tis of thee, Sweet land of liberty, Of thee I sing;\n\nLand where my fathers died, Land of the pilgrims\u2019 pride,\n\nFrom every mountainside Let freedom ring.\n\n\nMy native country, thee, Land of the noble free, Thy name I love;\n\nI love thy rocks and rills, Thy woods and templed hills;\n\nMy heart with rapture thrills Like that above.\n\n\nOur father\u2019s God to thee, Author of liberty, To thee we sing;\n\nLong may our land be bright, With freedom\u2019s holy light;\n\nProtect us by thy might, Great God, our King.\n\n\nAmerica (round)\n\n\nAmerica, America\n\nHow can I tell you how I  feel.\n\nYou have given me many treasures,\n\nI love you so.\n\n\nAmerica, America\n\nLand of hope and Liberty\n\nFreedom rings from every mountain\n\nFrom sea to sea\n\n\nAmerica The Beautiful\n\n\nOh beautiful for spacious skies,\n\nFor amber waves of grain,\n\nFor purple mountains majesty\n\nAbove the fruited plain.\n\nAmerica! America!\n\nGod shed his grace on thee\n\nAnd crown thy good with brotherhood\n\nFrom sea to shining sea!", 
+            "title": "Patriotic songs"
+        }, 
+        {
+            "location": "/patriotic/#patriotic-songs", 
+            "text": "", 
+            "title": "Patriotic Songs"
+        }, 
+        {
+            "location": "/patriotic/#america-my-country-tis-of-thee", 
+            "text": "My country! \u2018Tis of thee, Sweet land of liberty, Of thee I sing; \nLand where my fathers died, Land of the pilgrims\u2019 pride, \nFrom every mountainside Let freedom ring.  My native country, thee, Land of the noble free, Thy name I love; \nI love thy rocks and rills, Thy woods and templed hills; \nMy heart with rapture thrills Like that above.  Our father\u2019s God to thee, Author of liberty, To thee we sing; \nLong may our land be bright, With freedom\u2019s holy light; \nProtect us by thy might, Great God, our King.", 
+            "title": "America (My Country \u2018Tis of Thee)"
+        }, 
+        {
+            "location": "/patriotic/#america-round", 
+            "text": "America, America \nHow can I tell you how I  feel. \nYou have given me many treasures, \nI love you so.  America, America \nLand of hope and Liberty \nFreedom rings from every mountain \nFrom sea to sea", 
+            "title": "America (round)"
+        }, 
+        {
+            "location": "/patriotic/#america-the-beautiful", 
+            "text": "Oh beautiful for spacious skies, \nFor amber waves of grain, \nFor purple mountains majesty \nAbove the fruited plain. \nAmerica! America! \nGod shed his grace on thee \nAnd crown thy good with brotherhood \nFrom sea to shining sea!", 
+            "title": "America The Beautiful"
+        }
+    ]
+}
