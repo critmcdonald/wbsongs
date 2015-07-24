@@ -1,0 +1,6 @@
+site_name: Wood Badge Songs
+pages:
+- Home: index.md
+- Scout creeds: creeds.md
+- Patriotic songs: patriotic.md
+theme: readthedocs
