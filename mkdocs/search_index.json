@@ -121,6 +121,26 @@
             "title": "Wood Badge Spirit"
         }, 
         {
+            "location": "/scout/", 
+            "text": "Scout songs\n\n\nAbout a dozen songs to come.", 
+            "title": "Scout songs"
+        }, 
+        {
+            "location": "/scout/#scout-songs", 
+            "text": "About a dozen songs to come.", 
+            "title": "Scout songs"
+        }, 
+        {
+            "location": "/fun/", 
+            "text": "Fun songs\n\n\n45 or so songs to come.", 
+            "title": "Fun songs"
+        }, 
+        {
+            "location": "/fun/#fun-songs", 
+            "text": "45 or so songs to come.", 
+            "title": "Fun songs"
+        }, 
+        {
             "location": "/commands/", 
             "text": "Commands\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs gh-deploy --clean\n - Publish to github\n\n\n\n\nView the project at: http://critmcdonald.github.io/wbsongs/\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Commands"
