@@ -2,27 +2,17 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkLorum\n\n\ncrit\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to Wood Badge Songs\n\n\nThis is a phone friendly version of the Wood Badge Songbook for the Capital Area Council in Texas.\n\n\nIt was build for Fall 2015. Course Director Deanna Hagle.\n\n\nUse the navigation at left, or search for a song title or lyric.", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mklorum", 
-            "text": "crit  For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkLorum"
-        }, 
-        {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
-        }, 
-        {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#welcome-to-wood-badge-songs", 
+            "text": "This is a phone friendly version of the Wood Badge Songbook for the Capital Area Council in Texas.  It was build for Fall 2015. Course Director Deanna Hagle.  Use the navigation at left, or search for a song title or lyric.", 
+            "title": "Welcome to Wood Badge Songs"
         }, 
         {
             "location": "/creeds/", 
-            "text": "Scout creeds\n\n\nBoy Scout Oath (or Promise)\n\n\nOn my honor I will do my best\n\nTo do my duty to God and my country \n\nand to obey the Scout Law; \n\nTo help other people at all times; \n\nTo keep myself physically strong, \n\nmentally awake, and morally straight.\n\n\nScout Law\n\n\nA scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean and reverent.\n\n\nScout Motto\n\n\nBe Prepared\n\n\nScout Slogan\n\n\nDo a Good Turn Daily\n\n\nOutdoor Code\n\n\nAs an American, I will do my best to -\n\n Be clean in my outdoor manners\n\n Be careful with fire\n\n Be considerate in the outdoors, and\n\n Be conservation minded.\n\n\nCub Scout Motto\n\n\nDo Your Best", 
+            "text": "Scout creeds\n\n\nBoy Scout Oath (or Promise)\n\n\nOn my honor I will do my best\n\nTo do my duty to God and my country \n\nand to obey the Scout Law; \n\nTo help other people at all times; \n\nTo keep myself physically strong, \n\nmentally awake, and morally straight.\n\n\nScout Law\n\n\nA scout is trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean and reverent.\n\n\nScout Motto\n\n\nBe Prepared\n\n\nScout Slogan\n\n\nDo a Good Turn Daily\n\n\nOutdoor Code\n\n\nAs an American, I will do my best to:\n\n\n\n\nBe clean in my outdoor manners\n\n\nBe careful with fire\n\n\nBe considerate in the outdoors, and\n\n\nBe conservation minded.\n\n\n\n\nCub Scout Motto\n\n\nDo Your Best", 
             "title": "Scout creeds"
         }, 
         {
@@ -52,7 +42,7 @@
         }, 
         {
             "location": "/creeds/#outdoor-code", 
-            "text": "As an American, I will do my best to -  Be clean in my outdoor manners  Be careful with fire  Be considerate in the outdoors, and  Be conservation minded.", 
+            "text": "As an American, I will do my best to:   Be clean in my outdoor manners  Be careful with fire  Be considerate in the outdoors, and  Be conservation minded.", 
             "title": "Outdoor Code"
         }, 
         {
@@ -84,6 +74,66 @@
             "location": "/patriotic/#america-the-beautiful", 
             "text": "Oh beautiful for spacious skies, \nFor amber waves of grain, \nFor purple mountains majesty \nAbove the fruited plain. \nAmerica! America! \nGod shed his grace on thee \nAnd crown thy good with brotherhood \nFrom sea to shining sea!", 
             "title": "America The Beautiful"
+        }, 
+        {
+            "location": "/woodbadge/", 
+            "text": "Wood Badge Songs\n\n\nBack to Gilwell\n\n\nThis song is traditionally sung at Wood Badge courses and events.  Assemblies, campfires and any troop gathering time are great times for this song. Beavers set the pace!\n\n\nI used to be a Beaver,\n\nAnd a good old Beaver too,\n\nBut now I've finished Beavering,\n\nI don't know what to do,\n\nI'm growing old and feeble,\n\nAnd I can Beaver no more,\n\nSo I'm going to work my ticket if I can.\n\n\nChorus:\n\n\nBack to Gilwell, happy land,\n\nI'm going to work my ticket if I can\n\n\n\n\n\n\n\n\nAnimal\n\n\nVerb\n\n\n\n\n\n\n\n\n\n\nBeaver\n\n\nBeavering\n\n\n\n\n\n\nBobwite\n\n\nBobwhiting\n\n\n\n\n\n\nBear\n\n\nBearing\n\n\n\n\n\n\nEagle\n\n\nEagling\n\n\n\n\n\n\nFox\n\n\nFoxing\n\n\n\n\n\n\nOwl\n\n\nOwling\n\n\n\n\n\n\nBuffalo\n\n\nBuffaloing\n\n\n\n\n\n\nAntelope\n\n\nAnteloping\n\n\n\n\n\n\nStaffer\n\n\nStaffing\n\n\n\n\n\n\n\n\nNote: If sitting each patrol stands when singing their verse, and the entire troop stands for the chorus. If standing in an assembly, step forward a pace when singing.\n\n\nIt\u2019s in Every One of Us \u2013 \u2018Wood Badge Spirit\u2019 Lyrics\n\n\n(by David Pomeranz with additional \u2018Wood Badge Spirit\u2019 words by Randall K. Cline)\n\n\nIt's in every one of us to be wise.\n\nFind your heart, open up both your eyes. \n\nWe can all know everything,\n\nWithout ever knowing why.\n\nIt's in every one of us, by and by.\n\n\nIt's in every one of us, a kindred spirit \n\nAwakening me from within. \n\nI'm not all that I can be, but I have a vision \n\nThat calls me; let's begin.\n\n\nI've been realizing that my life is passing. \n\nIt's time to get into the show. \n\nLead to make a difference, serve because I care, \n\nAnd then love, 'cause I know, that is all one need know.\n\n\nIt's in every one of us to be wise. \n\nFind your heart, open up both your eyes. \n\nWe can all know everything,\n\nWithout ever knowing why. \n\nIt's in every one of us, by and by.\n\nIt's in every one of us, by and by.\n\n\nTwelve Days of Wood Badge\n\n\nOn my first day at Wood Badge,\n\nTroop 1 gave to me\u2026\n\nA patrol site with poison ivy\n\n2 more tickets\n\n3 bouncy Beavers\n\n4 bodacious Bobwhites\n\n5 Gilwell pennants\n\n6 soaring Eagles\n\n7 flashy Foxes\n\n8 Owls a-hooting\n\n9 Bears a-growling\n\n10 Buffaloes a roaming\n\n11 Antelopes a loping\n\n12 Staffers staffing\n\n\nWood Badge Den Song\n\n\n(Tune: If You\u2019re Happy and You Know It)\n\n\nIf you\u2019re a Beaver and you know it, slap your tail!\n\nIf you\u2019re a Beaver and you know it, slap your tail!\n\nIf you\u2019re a Beaver and you know it\n\nThen you really ought to show it.\n\nIf you\u2019re a Beaver and you know it, slap your tail!\n\n\n\n\nBeaver\n - Slap your tail\n\n\nBobwhite\n - Bob your head\n\n\nEagle\n - Flap your wings\n\n\nFox\n - Scamper around\n\n\nOwl\n - Shout \u201cWho Who\u201d\n\n\nBear\n - Scratch your back\n\n\nBuffalo\n - Stomp your feet\n\n\nAntelope\n - Jump up high\n\n\n\n\nWood Badge Farewell Song\n\n\n(Tune: Auld Lang Syne)\n\n\nThe time has come for all of us to bid our fond farewell.\n\nWe leave behind, love for mankind within the field Gilwell.\n\nGod bless us each and everyone.\n\nMay Scouting never cease.\n\nMay Wood Badge stay within our hearts, and give us lasting peace.\n\n\nWhere e\u2019re we go the world will know our fellowship is good.\n\nWe\u2019ll reach our goal and bells will toll about Scout brotherhood.\n\nThe soul of Baden-Powell lives on and we shall never fail.\n\nOur course is set.  We\u2019ll ne\u2019er forget ...  We walked the Wood Badge trail.\n\n\nPlease guide the Wood Badge staff dear Lord, in reverence to thee.\n\nAnd bless them God, they worked so hard and taught a Scout like me.\n\nO\u2019Great Scoutmaster of all Scouts, on you we can rely.\n\nThat someday you will call us to your Gilwell Field on high.\n\n\nWood Badge Quartermaster Store\n\n\nThere are BEAVERS, BEAVERS, BEAVERS,\n\nWielding rusty cleavers,\n\nIn the store, in the store\n\nThere are BEAVERS, BEAVERS, BEAVERS,\n\nWielding rusty cleavers,\n\nIn the Quartermaster Store.\n\n\nChorus\n\n\nMy eyes are dim, I cannot see,\n\nI have, not, got, my, specks, with me,\n\nI have, not, got, my, specks, with me.\n\n\nAlternate Verses\u2026\n\n\n\n\nBEAVER - Wielding rusty cleavers,\n\n\nBOBWHITES\u2026   Wearing silken tights,\n\n\nEAGLES\u2026 Chasing little beagles,\n\n\nFOXES\u2026 Stuffed in little boxes,\n\n\nOWLS\u2026 Eating paper towels,\n\n\nBEARS\u2026 With curlers in their hair,\n\n\nBUFFALOS\u2026 With mud between their toes,\n\n\nANTELOPES\u2026 Eating cantelopes,\n\n\nSTAFFERS\u2026 Swinging from the rafters,\n\n\n\n\nWood Badge Spirit\n\n\nI\u2019ve got that Wood badge spirit, Up in my head, Up in my head, Up in my head,\n\nI\u2019ve got that Wood badge spirit Up in my head,\n\nUp in my head to stay!\n\n\nI\u2019ve got that Wood badge spirit,\n\nDeep in my heart, etc\u2026\n\n\nI\u2019ve got that Wood badge spirit\n\nDown in my feet, etc\u2026..\n\n\nI\u2019ve got that Wood badge spirit\n\nAll over me, etc\u2026..\n\n\nI\u2019ve got that Wood badge spirit, Up in my head,\n\nDeep in my heart, Down in my feet,\n\nI\u2019ve got that Wood badge Spirit, All over me,\n\nAll over me to stay!", 
+            "title": "Wood Badge songs"
+        }, 
+        {
+            "location": "/woodbadge/#wood-badge-songs", 
+            "text": "", 
+            "title": "Wood Badge Songs"
+        }, 
+        {
+            "location": "/woodbadge/#back-to-gilwell", 
+            "text": "This song is traditionally sung at Wood Badge courses and events.  Assemblies, campfires and any troop gathering time are great times for this song. Beavers set the pace!  I used to be a Beaver, \nAnd a good old Beaver too, \nBut now I've finished Beavering, \nI don't know what to do, \nI'm growing old and feeble, \nAnd I can Beaver no more, \nSo I'm going to work my ticket if I can.  Chorus:  Back to Gilwell, happy land, \nI'm going to work my ticket if I can     Animal  Verb      Beaver  Beavering    Bobwite  Bobwhiting    Bear  Bearing    Eagle  Eagling    Fox  Foxing    Owl  Owling    Buffalo  Buffaloing    Antelope  Anteloping    Staffer  Staffing     Note: If sitting each patrol stands when singing their verse, and the entire troop stands for the chorus. If standing in an assembly, step forward a pace when singing.", 
+            "title": "Back to Gilwell"
+        }, 
+        {
+            "location": "/woodbadge/#its-in-every-one-of-us-wood-badge-spirit-lyrics", 
+            "text": "(by David Pomeranz with additional \u2018Wood Badge Spirit\u2019 words by Randall K. Cline)  It's in every one of us to be wise. \nFind your heart, open up both your eyes.  \nWe can all know everything, \nWithout ever knowing why. \nIt's in every one of us, by and by.  It's in every one of us, a kindred spirit  \nAwakening me from within.  \nI'm not all that I can be, but I have a vision  \nThat calls me; let's begin.  I've been realizing that my life is passing.  \nIt's time to get into the show.  \nLead to make a difference, serve because I care,  \nAnd then love, 'cause I know, that is all one need know.  It's in every one of us to be wise.  \nFind your heart, open up both your eyes.  \nWe can all know everything, \nWithout ever knowing why.  \nIt's in every one of us, by and by. \nIt's in every one of us, by and by.", 
+            "title": "It\u2019s in Every One of Us \u2013 \u2018Wood Badge Spirit\u2019 Lyrics"
+        }, 
+        {
+            "location": "/woodbadge/#twelve-days-of-wood-badge", 
+            "text": "On my first day at Wood Badge, \nTroop 1 gave to me\u2026 \nA patrol site with poison ivy \n2 more tickets \n3 bouncy Beavers \n4 bodacious Bobwhites \n5 Gilwell pennants \n6 soaring Eagles \n7 flashy Foxes \n8 Owls a-hooting \n9 Bears a-growling \n10 Buffaloes a roaming \n11 Antelopes a loping \n12 Staffers staffing", 
+            "title": "Twelve Days of Wood Badge"
+        }, 
+        {
+            "location": "/woodbadge/#wood-badge-den-song", 
+            "text": "(Tune: If You\u2019re Happy and You Know It)  If you\u2019re a Beaver and you know it, slap your tail! \nIf you\u2019re a Beaver and you know it, slap your tail! \nIf you\u2019re a Beaver and you know it \nThen you really ought to show it. \nIf you\u2019re a Beaver and you know it, slap your tail!   Beaver  - Slap your tail  Bobwhite  - Bob your head  Eagle  - Flap your wings  Fox  - Scamper around  Owl  - Shout \u201cWho Who\u201d  Bear  - Scratch your back  Buffalo  - Stomp your feet  Antelope  - Jump up high", 
+            "title": "Wood Badge Den Song"
+        }, 
+        {
+            "location": "/woodbadge/#wood-badge-farewell-song", 
+            "text": "(Tune: Auld Lang Syne)  The time has come for all of us to bid our fond farewell. \nWe leave behind, love for mankind within the field Gilwell. \nGod bless us each and everyone. \nMay Scouting never cease. \nMay Wood Badge stay within our hearts, and give us lasting peace.  Where e\u2019re we go the world will know our fellowship is good. \nWe\u2019ll reach our goal and bells will toll about Scout brotherhood. \nThe soul of Baden-Powell lives on and we shall never fail. \nOur course is set.  We\u2019ll ne\u2019er forget ...  We walked the Wood Badge trail.  Please guide the Wood Badge staff dear Lord, in reverence to thee. \nAnd bless them God, they worked so hard and taught a Scout like me. \nO\u2019Great Scoutmaster of all Scouts, on you we can rely. \nThat someday you will call us to your Gilwell Field on high.", 
+            "title": "Wood Badge Farewell Song"
+        }, 
+        {
+            "location": "/woodbadge/#wood-badge-quartermaster-store", 
+            "text": "There are BEAVERS, BEAVERS, BEAVERS, \nWielding rusty cleavers, \nIn the store, in the store \nThere are BEAVERS, BEAVERS, BEAVERS, \nWielding rusty cleavers, \nIn the Quartermaster Store.  Chorus  My eyes are dim, I cannot see, \nI have, not, got, my, specks, with me, \nI have, not, got, my, specks, with me.  Alternate Verses\u2026   BEAVER - Wielding rusty cleavers,  BOBWHITES\u2026   Wearing silken tights,  EAGLES\u2026 Chasing little beagles,  FOXES\u2026 Stuffed in little boxes,  OWLS\u2026 Eating paper towels,  BEARS\u2026 With curlers in their hair,  BUFFALOS\u2026 With mud between their toes,  ANTELOPES\u2026 Eating cantelopes,  STAFFERS\u2026 Swinging from the rafters,", 
+            "title": "Wood Badge Quartermaster Store"
+        }, 
+        {
+            "location": "/woodbadge/#wood-badge-spirit", 
+            "text": "I\u2019ve got that Wood badge spirit, Up in my head, Up in my head, Up in my head, \nI\u2019ve got that Wood badge spirit Up in my head, \nUp in my head to stay!  I\u2019ve got that Wood badge spirit, \nDeep in my heart, etc\u2026  I\u2019ve got that Wood badge spirit \nDown in my feet, etc\u2026..  I\u2019ve got that Wood badge spirit \nAll over me, etc\u2026..  I\u2019ve got that Wood badge spirit, Up in my head, \nDeep in my heart, Down in my feet, \nI\u2019ve got that Wood badge Spirit, All over me, \nAll over me to stay!", 
+            "title": "Wood Badge Spirit"
+        }, 
+        {
+            "location": "/commands/", 
+            "text": "Commands\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs gh-deploy --clean\n - Publish to github\n\n\n\n\nView the project at: http://critmcdonald.github.io/wbsongs/\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/commands/#commands", 
+            "text": "For full documentation visit  mkdocs.org .   mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs gh-deploy --clean  - Publish to github   View the project at: http://critmcdonald.github.io/wbsongs/", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/commands/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
         }
     ]
 }
