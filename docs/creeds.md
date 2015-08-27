@@ -7,8 +7,6 @@
 * [Outdoor Code](#code)
 * [Cub Motto](#cubmotto)
 
-CRIT MADE CHANGES
-
 <a name="oath"></a>
 ## Scout Oath (or Promise)
 On my honor I will do my best<br>
