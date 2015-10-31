@@ -1,0 +1,11 @@
+.rst-content blockquote {
+  padding: 8px 10px 8px;
+  border: 1px solid #ddd;
+  font-family: Monaco,"DejaVu Sans Mono","Courier New",monospace;
+  margin-left: 0px;
+}
+
+blockquote p {
+  margin-bottom: 6px;
+  font-size: 12px;
+}
